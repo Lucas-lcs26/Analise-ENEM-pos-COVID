@@ -1,4 +1,4 @@
-# Análise das Notas do ENEM para Entender o Impacto da Pandemia na Educação Brasileira
+# Análise das Notas do ENEM para Entender o Impacto da Pandemia na Educação Brasileira no Ensino Médio
 
 Este notebook apresenta uma análise das notas do Exame Nacional do Ensino Médio (ENEM) com o objetivo de investigar o impacto da pandemia do COVID-19 na educação brasileira. Utilizando [dados](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/sinopses-estatisticas/enem) disponibilizados pelo [INEP - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira](https://www.gov.br/inep/pt-br/acesso-a-informacao/institucional/sobre), foi explorada as tendências nas médias das notas por região, as dinâmicas das notas por disciplina e as variações no número de inscritos ao longo dos anos 2011 a 2022.
 
