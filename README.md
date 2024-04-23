@@ -14,10 +14,10 @@ Utilizando dados do ENEM disponibilizados pelo INEP, foram segregadas as informa
 ## **3. Análise e Visualização:**
 
 
-1. **Análise das Notas por Região:** Foram investigadas as médias das notas do ENEM por região do Brasil ao longo dos anos, buscando entender padrões e variações regionais. Bibliotecas utilizadas: `pandas` e `matplotlib`.
+1. **Análise das Notas por Região:** Foram investigadas as médias das notas do ENEM por região do Brasil ao longo dos anos, buscando entender padrões e variações regionais. Bibliotecas utilizadas: `pandas`, `matplotlib` e `scipy.stats`.
 
 
-2. **Dinâmica das Notas por Disciplina:** Foram analisadas as médias das notas por disciplina para identificar possíveis mudanças na performance dos alunos em diferentes áreas de conhecimento. Bibliotecas utilizadas: `pandas` e `matplotlib`.
+2. **Dinâmica das Notas por Disciplina:** Foram analisadas as médias das notas por disciplina para identificar possíveis mudanças na performance dos alunos em diferentes áreas de conhecimento. Bibliotecas utilizadas: `pandas`,  `matplotlib` e `scipy.stats`.
 
 
 3. **Tendências no Número de Inscritos:** Foram exploradas as tendências no número de inscritos no ENEM ao longo dos anos, a fim de quantificar o impacto da pandemia na participação dos alunos. Bibliotecas utilizadas: `pandas` e `matplotlib`.
